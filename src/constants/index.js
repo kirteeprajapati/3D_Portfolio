@@ -122,7 +122,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Enarx Protection for data in use: SGX Attestation & syscalls,"
+      "Enarx Protection for data in use: SGX Attestation & syscalls,",
       "Created Demos of deploying programs in Enarx written in high-level languages (C++, C, JavaScript, Python, Go) by compiling them in web assembly."
     ],
   },
