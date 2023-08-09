@@ -196,67 +196,74 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Jhutoob",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "React-based YouTube clone with HTML, CSS, and JavaScript.",
+    "Intuitive channel and video cards for seamless content browsing.",
+    "Harnesses YouTube API V3 to display likes, views, and enrich user interaction.",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Material UI V5",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Rapid API",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kirteeprajapati/youtube_clone",
   },
   {
-    name: "Job IT",
+    name: "PUZZLE CAM",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A JavaScript puzzle game with HTML canvas.",
+"Unique camera integration for personalized puzzles.",
+"Engaging crop-and-drop mechanics and captivating sound.",
+"Utilizes PHP, MySQL, for data management of score card.",
     tags: [
       {
-        name: "react",
+        name: "Vanilla JavaScript",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "HTML",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kirteeprajapati/Puzzle_Cam",
   },
   {
-    name: "Trip Guide",
+    name: "Jal Lijiye (DRINK WATER)",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A simple extension made with HTML, CSS, JavaScript",
+"Keeps you Reminded to drink water every 20 minutes",
+"With audio and image popup from the famous meme of the movie ‘Vivah’",
     tags: [
       {
-        name: "nextjs",
+        name: "JavaScript",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "HTML",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kirteeprajapati/drink-water",
   },
 ];
 
