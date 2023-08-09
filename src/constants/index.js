@@ -123,7 +123,7 @@ const experiences = [
     date: "March 2020 - April 2021",
     points: [
       "Enarx Protection for data in use: SGX Attestation & syscalls,",
-      "Created Demos of deploying programs in Enarx written in high-level languages (C++, C, JavaScript, Python, Go) by compiling them in web assembly."
+      "Created Demos of deploying programs in Enarx written in high-level languages (C++, C, JavaScript, Python, Go) by compiling them in web assembly.",
     ],
   },
   {
@@ -198,9 +198,7 @@ const projects = [
   {
     name: "Jhutoob",
     description:
-      "React-based YouTube clone with HTML, CSS, and JavaScript.",
-    "Intuitive channel and video cards for seamless content browsing.",
-    "Harnesses YouTube API V3 to display likes, views, and enrich user interaction.",
+      "React-based YouTube clone with HTML, CSS, and JavaScript. Intuitive channel and video cards for seamless content browsing. Harnesses YouTube API V3 to display likes, views, and enrich user interaction.",
     tags: [
       {
         name: "React",
@@ -221,10 +219,7 @@ const projects = [
   {
     name: "PUZZLE CAM",
     description:
-      "A JavaScript puzzle game with HTML canvas.",
-"Unique camera integration for personalized puzzles.",
-"Engaging crop-and-drop mechanics and captivating sound.",
-"Utilizes PHP, MySQL, for data management of score card.",
+      "A JavaScript puzzle game with HTML canvas. Unique camera integration for personalized puzzles. Engaging crop-and-drop mechanics and captivating sound. Utilizes PHP, MySQL, for data management of score card.",
     tags: [
       {
         name: "Vanilla JavaScript",
@@ -245,9 +240,7 @@ const projects = [
   {
     name: "Jal Lijiye (DRINK WATER)",
     description:
-      "A simple extension made with HTML, CSS, JavaScript",
-"Keeps you Reminded to drink water every 20 minutes",
-"With audio and image popup from the famous meme of the movie ‘Vivah’",
+      "A simple extension made with HTML, CSS, JavaScript. Keeps you Reminded to drink water every 20 minutes. With audio and image popup from the famous meme of the movie ‘Vivah’",
     tags: [
       {
         name: "JavaScript",
