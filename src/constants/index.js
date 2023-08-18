@@ -152,18 +152,18 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "Say Hello to WebAssembly with C and C++",
+    name: "Compile with Wasienv compiler",
+    designation: "WASM Demos",
+    company: "(5 Part Series)",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Golang with WebAssembly on Browser",
+    name: "Javascript Glue",
+    designation: "On Browser",
+    company: "(2 Part Series)",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
