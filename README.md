@@ -1,6 +1,35 @@
-# React + Vite
+3D Portfolio
+Made with React Three Fiber library for three Js in React
+TailwindCSS: Utility-First CSS styling Framework
+Framer Motion: For Animation in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Load Create Customize
+3D models Geometries
+Various lights
+
+Understanding 3D world with Camera Positioning of an object in space
+Reusable
+Scalable 
+Higher Order Components
+Responsiveness
+EmailJs
+Suspence
+Preload
+
+Initializing Application 
+Tool: 
+Install Vite: more popular than "create react app"
+```
+npm create vite@latest ./--template react
+```
+Install TailwindCSS 
+```
+npm install -D tailwindcss
+npx tailwindcss init
+```
+
+
+# React + Vite
 
 Currently, two official plugins are available:
 
