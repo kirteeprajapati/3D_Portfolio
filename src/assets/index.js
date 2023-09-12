@@ -32,7 +32,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import jhutoob from "./Jhutoob.png";
 import puzzle_cam from "./Puzzle_cam.png";
-import jal_lijiye from "./Jal_lijiye.jpg";
+import jal_lijiye from "./Jal_lijiye.png";
 import graph_visualizer from "./Graph_visualizer.png";
 import deepfake from "./Deepfake.png";
 
