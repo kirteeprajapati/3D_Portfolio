@@ -129,7 +129,7 @@ const experiences = [
   {
     title: "Frontend Developer",
     company_name: "Gravity (IIITA Tech Society)",
-    icon: tesla,
+    icon: gravity,
     iconBg: "#E6DEDD",
     date: "Jan 2022 - Feb 2022",
     points: [
