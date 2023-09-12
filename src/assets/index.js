@@ -34,6 +34,7 @@ import jhutoob from "./Jhutoob.png";
 import puzzle_cam from "./Puzzle_cam.png";
 import jal_lijiye from "./Jal_lijiye.png";
 import graph_visualizer from "./Graph_visualizer.png";
+import deepfake from "./Deepfake.png";
 
 export {
   logo,
@@ -68,5 +69,6 @@ export {
   jhutoob,
   puzzle_cam,
   jal_lijiye,
-  graph_visualizer
+  graph_visualizer,
+  deepfake
 };
