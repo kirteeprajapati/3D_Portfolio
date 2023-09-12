@@ -22,8 +22,13 @@ import {
   shopify,
   carrent,
   jobit,
+  jal_lijiye, 
+  jhutoob,
+  graph_visualizer,
+  puzzle_cam,
   tripguide,
   threejs,
+  deepfake
 } from "../assets";
 
 export const navLinks = [
@@ -188,7 +193,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: jhutoob,
     source_code_link: "https://github.com/kirteeprajapati/youtube_clone",
   },
   {
@@ -209,8 +214,29 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: puzzle_cam,
     source_code_link: "https://github.com/kirteeprajapati/Puzzle_Cam",
+  },
+  {
+    name: "Graph Visualizer",
+    description:
+      "Algorithms: Graph traversal using BFS, DFS, Dijkstra, components, spanning tree, articulation points, Bridges. Features: Create Graoh and edges with simple click using matrix representation, animation using threads",
+    tags: [
+      {
+        name: "Java, XML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaFx",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JetBrainslde",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: graph_visualizer,
+    source_code_link: "https://github.com/kirteeprajapati/Graph_Visualizer",
   },
   {
     name: "Jal Lijiye (DRINK WATER)",
@@ -230,8 +256,29 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jal_lijiye,
     source_code_link: "https://github.com/kirteeprajapati/drink-water",
+  },
+  {
+    name: "DeepFake Image Detection",
+    description:
+      "Led deepfake detection research utilizing advanced CNN models (EfficientNet B5, ResNet, VGG16, InceptionResNet). Achieved a 2.86% accuracy boost on DFDC dataset, combating intricate image manipulation. Pioneered a robust detection system, bolstering digital image integrity and trust in media.",
+    tags: [
+      {
+        name: "ML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Transfer Learning",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CNN",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: deepfake,
+    source_code_link: "https://github.com/kirteeprajapati",
   },
 ];
 
