@@ -25,6 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/ccc.jpg";
 import tesla from "./company/tesla.png";
+import gravity from "./company/Gravity.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
