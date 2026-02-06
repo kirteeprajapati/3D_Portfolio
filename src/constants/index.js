@@ -17,6 +17,7 @@ import {
   docker,
   meta,
   starbucks,
+  ring4,
   tesla,
   gravity,
   shopify,
@@ -191,6 +192,50 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "KommandAI",
+    description:
+      "AI-powered multi-vendor marketplace built end-to-end using React, FastAPI, PostgreSQL, WebSockets, and Gemini AI. Supports multilingual natural language commands (English/Hindi/Hinglish), real-time shop metrics, automated inventory workflows, async multi-tenant APIs, and secure role-based access control. Includes analytics dashboards, smart vendor suggestions, and operational automation.",
+    tags: [
+      { name: "React", color: "blue-text-gradient" },
+      { name: "FastAPI", color: "green-text-gradient" },
+      { name: "PostgreSQL", color: "pink-text-gradient" },
+      { name: "WebSockets", color: "blue-text-gradient" },
+      { name: "AI / Gemini", color: "green-text-gradient" },
+    ],
+    image: kommandai, // import asset
+    source_code_link: "https://github.com/kirteeprajapati/KommandAI",
+  },
+
+  {
+    name: "SaaS – The Citadel of Scale",
+    description:
+      "Multi-tenant grievance management SaaS built with Node.js, MongoDB, and Redis. Designed and implemented 50+ REST APIs with authentication, tenant isolation, subscription gating, caching, and real-time analytics dashboards. Improved system performance via async pipelines, optimized indexing, and query tuning, achieving ~40% faster resolution times and 60–70% lower latency under load.",
+    tags: [
+      { name: "Node.js", color: "blue-text-gradient" },
+      { name: "MongoDB", color: "green-text-gradient" },
+      { name: "Redis", color: "pink-text-gradient" },
+      { name: "REST APIs", color: "blue-text-gradient" },
+      { name: "Multi-Tenant SaaS", color: "green-text-gradient" },
+    ],
+    image: citadel, // import asset
+    source_code_link: "https://github.com/kirteeprajapati/SAAS-THE-CitAdel-of-SCALE",
+  },
+
+  {
+    name: "THE RINGMASTER",
+    description:
+      "AI-powered travel planning platform built using React 19, Node.js, FastAPI, and MongoDB. Architected microservices for itinerary generation, bookings, reviews, and admin moderation with RBAC. Integrated OpenWeather, OSM, and OSRM APIs for dynamic routing and recommendations. Dockerized the system with rate limiting, indexing, and performance-focused request handling for scalable deployments.",
+    tags: [
+      { name: "React 19", color: "blue-text-gradient" },
+      { name: "Node.js", color: "green-text-gradient" },
+      { name: "FastAPI", color: "pink-text-gradient" },
+      { name: "Docker", color: "blue-text-gradient" },
+      { name: "RBAC", color: "green-text-gradient" },
+    ],
+    image: ringmaster, // import asset
+    source_code_link: "https://github.com/kirteeprajapati/THE-RINGMASTER",
+  },
   {
     name: "Jhutoob",
     description:
