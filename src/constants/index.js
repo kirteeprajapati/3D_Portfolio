@@ -122,6 +122,22 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Development Engineer",
+    company_name: "Ring4 (Remote)",
+    icon: ring4,
+    iconBg: "#1d1836",
+    date: "Jan 2024 – Present",
+    points: [
+      "Built and shipped core product workflows including onboarding, team invitations, contact management, CSV imports, scheduling, notes, and agent collaboration in a small, high-ownership team.",
+      "Designed and integrated backend APIs for SMS/MMS, threaded conversations, voicemail, call recordings, AI receptionist flows, and call summaries.",
+      "Implemented real-time communication features using Ably, including presence, typing indicators, mentions, and multi-device state synchronization.",
+      "Owned and delivered messaging and chat infrastructure with support for MMS attachments, drafts, scheduling, shared/direct number routing, and message mentions.",
+      "Built global search and discovery pipelines using Typesense to enable fast lookup across conversations, contacts, and messages.",
+      "Led frontend modernization by migrating Vue 2 to Vue 3 and Nuxt 2 to Nuxt 3, refactoring 300+ components and improving rendering performance by ~30%.",
+      "Collaborated closely with backend services on API contracts, debugging production issues, and shipping cross-service releases in a fast-moving startup environment."
+    ],
+  },
+  {
     title: "Junior Developer",
     company_name: "Confidential Computing Consortium",
     icon: starbucks,
