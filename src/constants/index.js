@@ -141,7 +141,7 @@ const experiences = [
   {
     title: "Junior Developer",
     company_name: "Confidential Computing Consortium",
-    icon: starbucks,
+    icon: ccc,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
