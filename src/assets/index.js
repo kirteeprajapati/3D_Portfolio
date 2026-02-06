@@ -36,9 +36,9 @@ import puzzle_cam from "./Puzzle_cam.png";
 import jal_lijiye from "./Jal_lijiye.png";
 import graph_visualizer from "./Graph_visualizer.png";
 import deepfake from "./Deepfake.png";
-import kommandai from "./KommandAI.png";
+import kommandai from "./kommandai.png";
 import citadel from "./citadel.jpeg";
-import ringmaster from "./Ringmaster.png";
+import ringmaster from "./ringmaster.png";
 
 export {
   logo,
