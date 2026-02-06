@@ -30,6 +30,9 @@ import {
   tripguide,
   threejs,
   deepfake,
+  kommandai,
+  citadel,
+  ringmaster,
 } from "../assets";
 
 export const navLinks = [
