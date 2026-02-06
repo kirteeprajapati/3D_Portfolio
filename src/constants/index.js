@@ -16,8 +16,8 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
   ring4,
+  ccc,  
   tesla,
   gravity,
   shopify,
@@ -29,7 +29,7 @@ import {
   puzzle_cam,
   tripguide,
   threejs,
-  deepfake
+  deepfake,
 } from "../assets";
 
 export const navLinks = [

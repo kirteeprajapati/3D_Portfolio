@@ -23,7 +23,8 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/ccc.jpg";
+import ccc from "./company/ccc.jpg";
+import ring4 from "./company/ring4.png";
 import tesla from "./company/tesla.png";
 import gravity from "./company/Gravity.png";
 
@@ -60,7 +61,8 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  ccc,
+  ring4,
   tesla,
   gravity,
   carrent,
